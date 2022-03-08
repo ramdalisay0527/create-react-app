@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b8741eef.chunk.js",
+    "main.js.map": "/static/js/main.b8741eef.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a0da126f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a0da126f.js.map",
+    "static/css/2.8e72b816.chunk.css": "/static/css/2.8e72b816.chunk.css",
+    "static/js/2.3577e5d9.chunk.js": "/static/js/2.3577e5d9.chunk.js",
+    "static/js/2.3577e5d9.chunk.js.map": "/static/js/2.3577e5d9.chunk.js.map",
+    "static/js/3.c46470ed.chunk.js": "/static/js/3.c46470ed.chunk.js",
+    "static/js/3.c46470ed.chunk.js.map": "/static/js/3.c46470ed.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.650a41c2c44b281d5df1d40ce68df005.js": "/precache-manifest.650a41c2c44b281d5df1d40ce68df005.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8e72b816.chunk.css.map": "/static/css/2.8e72b816.chunk.css.map",
+    "static/js/2.3577e5d9.chunk.js.LICENSE.txt": "/static/js/2.3577e5d9.chunk.js.LICENSE.txt",
+    "static/media/facebook-icon-blue.svg": "/static/media/facebook-icon-blue.cbb9b56a.svg",
+    "static/media/icon-sheet-2.png": "/static/media/icon-sheet-2.a9a13771.png",
+    "static/media/icon-sheet.png": "/static/media/icon-sheet.3dfb71b4.png",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0da126f.js",
+    "static/css/2.8e72b816.chunk.css",
+    "static/js/2.3577e5d9.chunk.js",
+    "static/js/main.b8741eef.chunk.js"
+  ]
+}
